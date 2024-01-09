@@ -1,5 +1,5 @@
-﻿//int[] nums = { 0, 2, 1, 5, 3, 4 };
-int[] nums = { 5, 0, 1, 2, 3, 4 };
+﻿int[] nums = { 0, 2, 1, 5, 3, 4 };
+//int[] nums = { 5, 0, 1, 2, 3, 4 };
 int[] ans = new int[nums.Length];
 
 var result = BuildArray(nums);
@@ -19,3 +19,4 @@ int[] BuildArray(int[] nums)
 //ans[3]=nums[3]=5  ans[0,1,2,4]
 //ans[4]=nums[4]=3  ans[0,1,2,4,5]
 //ans[5]=nums[5]=4  ans[0,1,2,4,5,3]
+

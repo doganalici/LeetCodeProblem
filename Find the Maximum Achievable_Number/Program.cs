@@ -1,4 +1,5 @@
-﻿//int num = 4, t = 1;
+﻿
+//int num = 4, t = 1;
 int num = 3, t = 2;
 int result = TheMaximumAchievableX(num, t);
 var d = result;
