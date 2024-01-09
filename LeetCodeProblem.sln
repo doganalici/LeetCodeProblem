@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert the Temperature", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Build Array from Permutation", "Build Array from Permutation\Build Array from Permutation.csproj", "{6F798203-9D33-46F9-A527-B517890D45A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the Maximum Achievable_Number", "Find the Maximum Achievable_Number\Find the Maximum Achievable_Number.csproj", "{16A5C962-53D7-4C7F-B0AB-87037BC38263}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the Maximum Achievable Number", "Find the Maximum Achievable Number\Find the Maximum Achievable Number.csproj", "{AAB73A74-6654-4171-B5A0-63AA93EB0176}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{6F798203-9D33-46F9-A527-B517890D45A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F798203-9D33-46F9-A527-B517890D45A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F798203-9D33-46F9-A527-B517890D45A6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{16A5C962-53D7-4C7F-B0AB-87037BC38263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{16A5C962-53D7-4C7F-B0AB-87037BC38263}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{16A5C962-53D7-4C7F-B0AB-87037BC38263}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{16A5C962-53D7-4C7F-B0AB-87037BC38263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB73A74-6654-4171-B5A0-63AA93EB0176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB73A74-6654-4171-B5A0-63AA93EB0176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB73A74-6654-4171-B5A0-63AA93EB0176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB73A74-6654-4171-B5A0-63AA93EB0176}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
